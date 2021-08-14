@@ -1,0 +1,13 @@
+{
+    "name": "master/fatorial",
+    "description": "Projeto Numero Fatorial",
+    "authors": [
+        {
+            "name":  "Alarcon",
+            "email": "pedrohenriquealarcon@gmail.com"
+        }
+    ],
+    "require": {
+        "league/climate": "^3.7"
+    }
+}
